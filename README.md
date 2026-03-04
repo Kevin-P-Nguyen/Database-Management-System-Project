@@ -1,6 +1,6 @@
 # Database-Management-System-Project
 
-Semester long project for Database Management System course.
+This is a semester long project for the Database Management System course.
 
 Members:
 - Kevin P. Nguyen
